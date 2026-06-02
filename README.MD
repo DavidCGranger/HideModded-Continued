@@ -1,6 +1,6 @@
 ## HideModded Continued
 
-After the version 1.15.2, if the game is modified, "(Modded)" will appear after the main menu game version number and "*" will appear in the game title bar.
+From 1.15.2, if the game is modified, "(Modded)" will appear after the main menu game version number and "*" will appear in the game title bar.
 
 This mod hides the "*" in the title bar of the game and the "(Modded)" after the game version number in the main menu.
 
