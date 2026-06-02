@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "hidemodded",
+  "id": "hidemodded-continued",
   "version": "${version}",
-  "name": "HideModded",
-  "description": "This hides the asterisk in the title bar and the Modded-tag on the main menu",
+  "name": "HideModded Continued",
+  "description": "This hides the asterisk in the title bar and the Modded-tag in the main menu",
   "authors": [
     "CiLuQwQ", "DavidCGranger"
   ],
   "contact": {
-    "repo": "https://github.com/DavidCGranger/HideModded"
+    "repo": "https://github.com/DavidCGranger/HideModded-Continued"
   },
   "license": "GPL-3.0",
   "icon": "assets/hidemodded/icon.png",
