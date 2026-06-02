@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "hidemodded-continued",
+  "id": "hidemodded",
   "version": "${version}",
   "name": "HideModded Continued",
   "description": "This hides the asterisk in the title bar and the Modded-tag in the main menu",
