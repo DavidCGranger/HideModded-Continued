@@ -6,10 +6,12 @@ This mod can hide the "*" on the title bar of the game and the "(Modded)" after 
 
 This is a fork of [CiiLu](https://github.com/CiiLu)'s [original mod](https://github.com/CiiLu/HideModded) that updates it to support 26.1 and later.
 
+The downloads can be found under [Modrinth](https://modrinth.com/mod/hidemodded-continued).
+
 CiiLu's versions are available under the following sites to download:
 
 [Modrinth](https://modrinth.com/mod/hidemodded)
 [MC百科](https://www.mcmod.cn/class/13657.html)
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hideasterisk)
 
-My builds will only be available on GitHub under [Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
+My builds will also be available on GitHub under [Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
