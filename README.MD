@@ -6,7 +6,7 @@ This mod hides the "*" in the title bar of the game and the "(Modded)" after the
 
 This mod will not hide your mods from servers!
 
-The downloads can be found under [Modrinth](https://modrinth.com/mod/hidemodded-continued) or under [GitHub Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
+The downloads can be found under [Modrinth](https://modrinth.com/mod/hidemodded-continued), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hidemodded-continued) or under [GitHub Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
 
 This is a fork of [CiiLu](https://github.com/CiiLu)'s [original mod](https://github.com/CiiLu/HideModded) that updates it to support 26.1 and later.
 
