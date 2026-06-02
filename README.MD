@@ -9,7 +9,7 @@ From 1.15.2, if the game is modified, "(Modded)" will appear after the main menu
 
 This mod hides the "*" in the title bar of the game and the "(Modded)" after the game version number in the main menu.
 
-This mod will not hide your mods from servers!
+This mod will **not** hide your mods from servers!
 
 The downloads can be found under [Modrinth](https://modrinth.com/mod/hidemodded-continued), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hidemodded-continued/preview) or under [GitHub Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
 
