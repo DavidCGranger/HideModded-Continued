@@ -16,6 +16,7 @@ This mod will **not** hide your mods from servers!
 The downloads can be found under [Modrinth](https://modrinth.com/mod/hidemodded-continued), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/hidemodded-continued/preview) or under [GitHub Releases](https://github.com/DavidCGranger/HideModded/releases/latest).
 
 This is a fork of [CiiLu](https://github.com/CiiLu)'s [original mod](https://github.com/CiiLu/HideModded) that updates it to support 26.1 and later.
+The original mod should be used for 1.21.11 and earlier.
 
 CiiLu's versions are available under the following sites to download:
 
