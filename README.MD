@@ -2,7 +2,7 @@
 
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/hidemodded-continued)
 [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/hidemodded-continued)
-[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/DavidCGranger/HideModded/releases/latest)
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/DavidCGranger/HideModded-Continued/releases/latest)
 
 [![Build Status](https://github.com/DavidCGranger/HideModded-Continued/actions/workflows/build.yml/badge.svg)](https://github.com/DavidCGranger/HideModded-Continued/actions/workflows/build.yml)
 [![Github All Releases](https://img.shields.io/github/v/release/DavidCGranger/HideModded-Continued.svg)](https://github.com/DavidCGranger/HideModded-Continued/releases)
